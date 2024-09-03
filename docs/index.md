@@ -1,23 +1,69 @@
----
-title: "index"
----
+# Table of Contents
 
-# Welcome to My Obsidian Vault
-
-Explore the different sections of my knowledge base:
-
-## 📍 Atlas
-Dive into the places and locations that make up the world.
-
-
-## 📚 Encyclopedia
-Learn about the factions, concepts, and items that populate the world.
-
-
-## 🗂 Meta
-Access in-game reminders, DM notes, and other essential information.
-
-
----
-
-Feel free to explore each section to uncover the rich details of the world!
+- [Atlas\General](Atlas\General.md)
+- [Atlas\Cities\Camor](Atlas\Cities\Camor.md)
+- [Atlas\Cities\Keyford (nee. Keford)](Atlas\Cities\Keyford (nee. Keford).md)
+- [Atlas\Cities\Litoria (nee. Litore)](Atlas\Cities\Litoria (nee. Litore).md)
+- [Atlas\Cities\Mewood](Atlas\Cities\Mewood.md)
+- [Atlas\Cities\Mudhaven](Atlas\Cities\Mudhaven.md)
+- [Atlas\Cities\Rockhold Keep](Atlas\Cities\Rockhold Keep.md)
+- [Atlas\Cities\The Kefordian Crater](Atlas\Cities\The Kefordian Crater.md)
+- [Atlas\POIs\Ashgrove Range](Atlas\POIs\Ashgrove Range.md)
+- [Atlas\POIs\Beorg Bay](Atlas\POIs\Beorg Bay.md)
+- [Atlas\POIs\Fennrich Marsh](Atlas\POIs\Fennrich Marsh.md)
+- [Atlas\POIs\The Glade](Atlas\POIs\The Glade.md)
+- [Atlas\Villages\Butterwick](Atlas\Villages\Butterwick.md)
+- [Atlas\Villages\Deysham](Atlas\Villages\Deysham.md)
+- [Atlas\Villages\Frelnam Village](Atlas\Villages\Frelnam Village.md)
+- [Atlas\Villages\Frontier Village](Atlas\Villages\Frontier Village.md)
+- [Atlas\Villages\Gladehaven](Atlas\Villages\Gladehaven.md)
+- [Encyclopedia\Books and Items\Celestial Shadows The Arcane Eclipse Effect and Ley Line Dynamics in a Binary Star System](Encyclopedia\Books and Items\Celestial Shadows The Arcane Eclipse Effect and Ley Line Dynamics in a Binary Star System.md)
+- [Encyclopedia\Books and Items\Lessons for Sensible Living IX - The Underdark](Encyclopedia\Books and Items\Lessons for Sensible Living IX - The Underdark.md)
+- [Encyclopedia\Books and Items\Minor Items](Encyclopedia\Books and Items\Minor Items.md)
+- [Encyclopedia\Books and Items\Potion of Borrowed Time](Encyclopedia\Books and Items\Potion of Borrowed Time.md)
+- [Encyclopedia\Cosmology and Divinity\0.0 - Gods and Divinity - Overview](Encyclopedia\Cosmology and Divinity\0.0 - Gods and Divinity - Overview.md)
+- [Encyclopedia\Cosmology and Divinity\1.0 - Cosmology](Encyclopedia\Cosmology and Divinity\1.0 - Cosmology.md)
+- [Encyclopedia\Cosmology and Divinity\Aranok, The Justicar](Encyclopedia\Cosmology and Divinity\Aranok, The Justicar.md)
+- [Encyclopedia\Cosmology and Divinity\Asterius, The Consort](Encyclopedia\Cosmology and Divinity\Asterius, The Consort.md)
+- [Encyclopedia\Cosmology and Divinity\Death (Deity)](Encyclopedia\Cosmology and Divinity\Death (Deity).md)
+- [Encyclopedia\Cosmology and Divinity\Eshendal, the Landsire](Encyclopedia\Cosmology and Divinity\Eshendal, the Landsire.md)
+- [Encyclopedia\Cosmology and Divinity\Lunara, the Skyfire](Encyclopedia\Cosmology and Divinity\Lunara, the Skyfire.md)
+- [Encyclopedia\Cosmology and Divinity\Serinus, The Elder](Encyclopedia\Cosmology and Divinity\Serinus, The Elder.md)
+- [Encyclopedia\Cosmology and Divinity\The Lightbringer](Encyclopedia\Cosmology and Divinity\The Lightbringer.md)
+- [Encyclopedia\Cosmology and Divinity\Thuranm, The Forgemaster](Encyclopedia\Cosmology and Divinity\Thuranm, The Forgemaster.md)
+- [Encyclopedia\Cosmology and Divinity\Wormweaver the Usurper](Encyclopedia\Cosmology and Divinity\Wormweaver the Usurper.md)
+- [Encyclopedia\Cosmology and Divinity\Zerekiel, The Conqueror](Encyclopedia\Cosmology and Divinity\Zerekiel, The Conqueror.md)
+- [Encyclopedia\Factions\Bard Colleges in Landers' Coast](Encyclopedia\Factions\Bard Colleges in Landers' Coast.md)
+- [Encyclopedia\Factions\Minor Houses in Keyford](Encyclopedia\Factions\Minor Houses in Keyford.md)
+- [Encyclopedia\Factions\Talespinner Society](Encyclopedia\Factions\Talespinner Society.md)
+- [Encyclopedia\Factions\The Fold](Encyclopedia\Factions\The Fold.md)
+- [Encyclopedia\Keyfordian Specific\Alderbrook Enclave Shops and POIs](Encyclopedia\Keyfordian Specific\Alderbrook Enclave Shops and POIs.md)
+- [Encyclopedia\Keyfordian Specific\Arcanist's Gambit](Encyclopedia\Keyfordian Specific\Arcanist's Gambit.md)
+- [Encyclopedia\Keyfordian Specific\Argentwind Trade House](Encyclopedia\Keyfordian Specific\Argentwind Trade House.md)
+- [Encyclopedia\Keyfordian Specific\Keyfordian Council](Encyclopedia\Keyfordian Specific\Keyfordian Council.md)
+- [Encyclopedia\Keyfordian Specific\Keyfordian Culture](Encyclopedia\Keyfordian Specific\Keyfordian Culture.md)
+- [Encyclopedia\Keyfordian Specific\The Wellington Family\House Wellington](Encyclopedia\Keyfordian Specific\The Wellington Family\House Wellington.md)
+- [Encyclopedia\Keyfordian Specific\The Wellington Family\Lord Eiling's Restoration Speech](Encyclopedia\Keyfordian Specific\The Wellington Family\Lord Eiling's Restoration Speech.md)
+- [Encyclopedia\Keyfordian Specific\The Wellington Family\The Wellington Quarter](Encyclopedia\Keyfordian Specific\The Wellington Family\The Wellington Quarter.md)
+- [Encyclopedia\Keyfordian Specific\The Wellington Family\House Representatives\Lady Siaculas Wellington](Encyclopedia\Keyfordian Specific\The Wellington Family\House Representatives\Lady Siaculas Wellington.md)
+- [Encyclopedia\Keyfordian Specific\The Wellington Family\House Representatives\Lord Eiling Wellington](Encyclopedia\Keyfordian Specific\The Wellington Family\House Representatives\Lord Eiling Wellington.md)
+- [Encyclopedia\Keyfordian Specific\The Wellington Family\House Representatives\Lord Gorad Wellington](Encyclopedia\Keyfordian Specific\The Wellington Family\House Representatives\Lord Gorad Wellington.md)
+- [Encyclopedia\Keyfordian Specific\The Wellington Family\House Representatives\Master Eulus Wellington](Encyclopedia\Keyfordian Specific\The Wellington Family\House Representatives\Master Eulus Wellington.md)
+- [Encyclopedia\Keyfordian Specific\The Wellington Family\House Representatives\Master Felix Wellington](Encyclopedia\Keyfordian Specific\The Wellington Family\House Representatives\Master Felix Wellington.md)
+- [Encyclopedia\Keyfordian Specific\The Wellington Family\Wellington Quarter POIs\Meridian Club](Encyclopedia\Keyfordian Specific\The Wellington Family\Wellington Quarter POIs\Meridian Club.md)
+- [Encyclopedia\Keyfordian Specific\The Wellington Family\Wellington Quarter POIs\The Criterion](Encyclopedia\Keyfordian Specific\The Wellington Family\Wellington Quarter POIs\The Criterion.md)
+- [Encyclopedia\Keyfordian Specific\The Wellington Family\Wellington Quarter POIs\The Gilded Lily](Encyclopedia\Keyfordian Specific\The Wellington Family\Wellington Quarter POIs\The Gilded Lily.md)
+- [Encyclopedia\Keyfordian Specific\The Wellington Family\Wellington Quarter POIs\The Grand Library](Encyclopedia\Keyfordian Specific\The Wellington Family\Wellington Quarter POIs\The Grand Library.md)
+- [Encyclopedia\Keyfordian Specific\The Wellington Family\Wellington Quarter POIs\The Silver Sceptre](Encyclopedia\Keyfordian Specific\The Wellington Family\Wellington Quarter POIs\The Silver Sceptre.md)
+- [Encyclopedia\Keyfordian Specific\The Wellington Family\Wellington Quarter POIs\Wellington Apothecary](Encyclopedia\Keyfordian Specific\The Wellington Family\Wellington Quarter POIs\Wellington Apothecary.md)
+- [Encyclopedia\Keyfordian Specific\The Wellington Family\Wellington Quarter POIs\Wellington Manor](Encyclopedia\Keyfordian Specific\The Wellington Family\Wellington Quarter POIs\Wellington Manor.md)
+- [Encyclopedia\Keyfordian Specific\The Wellington Family\Wellington Quarter POIs\Wellington Stables](Encyclopedia\Keyfordian Specific\The Wellington Family\Wellington Quarter POIs\Wellington Stables.md)
+- [Encyclopedia\Keyfordian Specific\The Wellington Family\Wellington Quarter POIs\Wellington's Court](Encyclopedia\Keyfordian Specific\The Wellington Family\Wellington Quarter POIs\Wellington's Court.md)
+- [Encyclopedia\Keyfordian Specific\The Wellington Family\Wellington Quarter POIs\Wellington's Gallery of Fine Arts](Encyclopedia\Keyfordian Specific\The Wellington Family\Wellington Quarter POIs\Wellington's Gallery of Fine Arts.md)
+- [Encyclopedia\Litorian Specific\Litorian Culture](Encyclopedia\Litorian Specific\Litorian Culture.md)
+- [Encyclopedia\Science\Feybane](Encyclopedia\Science\Feybane.md)
+- [Encyclopedia\Science\Igniflora](Encyclopedia\Science\Igniflora.md)
+- [Encyclopedia\Science\Landers' Coast Gazetteer](Encyclopedia\Science\Landers' Coast Gazetteer.md)
+- [Encyclopedia\Science\Technology in Landers' Coast](Encyclopedia\Science\Technology in Landers' Coast.md)
+- [Encyclopedia\Science\The Lunar Eclipse](Encyclopedia\Science\The Lunar Eclipse.md)
+- [Meta\Player Stuff](Meta\Player Stuff.md)
