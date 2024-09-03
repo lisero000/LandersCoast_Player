@@ -1,0 +1,220 @@
+{
+  "main": {
+    "id": "db838af43673225a",
+    "type": "split",
+    "children": [
+      {
+        "id": "3f154fe8d6d0961a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f63224080427feac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "General/Time.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ebd415fcedf3b53a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Encyclopedia/Celestial Shadows The Arcane Eclipse Effect and Ley Line Dynamics in a Binary Star System.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8e0cc59f0b480dd8",
+    "type": "split",
+    "children": [
+      {
+        "id": "b54c4673c468cad9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ef67693020f10b3e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "ashgrove",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bcf070f2398f6a51",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "1a7ccf6df9657f59",
+    "type": "split",
+    "children": [
+      {
+        "id": "99939bf35049543e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6e9a0803865a5239",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Encyclopedia/Celestial Shadows The Arcane Eclipse Effect and Ley Line Dynamics in a Binary Star System.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "40d61f279fc6226e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Encyclopedia/Celestial Shadows The Arcane Eclipse Effect and Ley Line Dynamics in a Binary Star System.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4a4fe4b00c65b7f2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "583e3e12dd7fdc30",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4f3f3d5e1f44b593",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Encyclopedia/Celestial Shadows The Arcane Eclipse Effect and Ley Line Dynamics in a Binary Star System.md"
+              }
+            }
+          },
+          {
+            "id": "c46ecc0b36700995",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "e938f9da36c99eb1",
+            "type": "leaf",
+            "state": {
+              "type": "quiet-outline",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obisidian-note-linker:Note Linker": false
+    }
+  },
+  "active": "e938f9da36c99eb1",
+  "lastOpenFiles": [
+    "Encyclopedia/Keyfordian Specific/Shops in Alderbrook Enclave.md",
+    "Encyclopedia/Keyfordian Specific/Untitled.md",
+    "General/Time.md",
+    "Encyclopedia/Celestial Shadows The Arcane Eclipse Effect and Ley Line Dynamics in a Binary Star System.md",
+    "Flare Force One/Session 8.md",
+    "Flare Force One/PCs/Lindon Aurelius - Chris.md",
+    "Flare Force One/PCs/Falkorynn Alamoret  - Emily.md",
+    "Flare Force One/PCs/Brimstone - Hayden.md",
+    "Encyclopedia/Keyfordian Specific/Keyfordian Culture.md",
+    "Encyclopedia/Litorian Specific/Litorian Culture.md",
+    "Encyclopedia/Keyfordian Specific/Keyfordian Council.md",
+    "Atlas/Cities/Keyford (nee. Keford).md",
+    "Encyclopedia/Blue Flames of Fennrich Marsh.md",
+    "Encyclopedia/Litorian Specific",
+    "Encyclopedia/Untitled.md",
+    "Atlas/Cities/Mudhaven.md",
+    "Atlas/Cities/Mewood.md",
+    "Atlas/Cities/Litoria (nee. Litore).md",
+    "Atlas/POIs/Ashgrove Range.md",
+    "Atlas/Cities/Rockhold Keep.md",
+    "Atlas/General.md",
+    "Atlas/Cities/Camor.md",
+    "Encyclopedia/Keyfordian Specific/Arcanist's Gambit.md",
+    "Encyclopedia/Keyfordian Specific/Argentwind Trade House.md",
+    "General/DM Stuff.md",
+    "General/Inkarnate Pallettes/Keyford.md",
+    "Encyclopedia/Lessons for Sensible Living IX - The Underdark.md",
+    "General/Inkarnate Pallettes",
+    "ZZZ.Aux Files/Falkorynn_1_chr_sheet.pdf",
+    "Flare Force One/PCs/Untitled",
+    "Flare Force One/PCs",
+    "NPCs (Unmet)",
+    "ZZZ.Aux Files/Pasted image 20240416082058.png",
+    "Encyclopedia/Factions",
+    "Encyclopedia/Keyfordian Specific",
+    "Inspo",
+    "ZZZ.Aux Files",
+    "ZZZ.Aux Files/Pasted image 20240412134739.png"
+  ]
+}

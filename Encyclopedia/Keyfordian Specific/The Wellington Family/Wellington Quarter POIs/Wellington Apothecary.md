@@ -1,0 +1,2 @@
+_Luxury Apothecary, Apothecary Mallory Wellington_ 
+An establishment catering to the health and wellness of Keyford’s elite, this apothecary sells high-quality potions and herbal remedies. The shop is pristine, with crystal-clear glass cabinets showcasing brightly colored potions. Inventory includes Healing Potions (75 gp), Potion of Night Vision (300 gp), and Elixir of Health (500 gp).

@@ -1,0 +1,2 @@
+_Private Members' Club, Proprietor Geraldine Wellington_ 
+An exclusive club catering to Keyford’s most influential, the Meridian Club is a place for networking and relaxation. The club includes dining facilities, libraries, and meeting rooms, all furnished to reflect the wealth and status of its members. Membership is by invitation only and costs 100 gp per year, providing access to various seminars, tastings, and gala events.

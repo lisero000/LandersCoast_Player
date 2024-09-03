@@ -1,0 +1,210 @@
+{
+  "main": {
+    "id": "db838af43673225a",
+    "type": "split",
+    "children": [
+      {
+        "id": "e369cf65b374423e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d1a288fb43985030",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Atlas/Cities/Camor.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8e0cc59f0b480dd8",
+    "type": "split",
+    "children": [
+      {
+        "id": "b54c4673c468cad9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ef67693020f10b3e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bcf070f2398f6a51",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "4a4fe4b00c65b7f2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1a7ccf6df9657f59",
+    "type": "split",
+    "children": [
+      {
+        "id": "99939bf35049543e",
+        "type": "tabs",
+        "dimension": 49.55035971223021,
+        "children": [
+          {
+            "id": "6e9a0803865a5239",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Atlas/Cities/Camor.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "40d61f279fc6226e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Atlas/Cities/Camor.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d9d9a0994ee4cdaa",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Atlas/Cities/Camor.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "583e3e12dd7fdc30",
+        "type": "tabs",
+        "dimension": 50.44964028776978,
+        "children": [
+          {
+            "id": "deffed8b00e89b1d",
+            "type": "leaf",
+            "state": {
+              "type": "quiet-outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "c46ecc0b36700995",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 289.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "d1a288fb43985030",
+  "lastOpenFiles": [
+    "Encyclopedia/Science/Landers' Coast Gazetteer.md",
+    "Encyclopedia/Keyfordian Specific/The Wellington Family/House Wellington.md",
+    "Atlas/Cities/Camor.md",
+    "Atlas/General.md",
+    "Atlas/Villages/Gladehaven.md",
+    "Atlas/Villages/Frontier Village.md",
+    "Atlas/Villages/Frelnam Village.md",
+    "Atlas/Villages/Deysham.md",
+    "Atlas/Villages/Cradle Village.md",
+    "Atlas/Villages/Butterwick.md",
+    "Atlas/POIs/The Glade.md",
+    "Atlas/POIs/Fennrich Marsh.md",
+    "Atlas/POIs/Beorg Bay.md",
+    "Atlas/POIs/Ashgrove Range.md",
+    "Atlas/Cities/The Kefordian Crater.md",
+    "Atlas/Cities/Rockhold Keep.md",
+    "Atlas/Cities/Mudhaven.md",
+    "Atlas/Cities/Mewood.md",
+    "Atlas/Cities/Keyford (nee. Keford).md",
+    "Atlas/Cities/Litoria (nee. Litore).md",
+    "Flare Force One/Session 12-14/The Estate.md",
+    "Characters/Adventurers/Jorund Blackroot.md",
+    "Flare Force One/PCs/Veshik Moonshadow.md",
+    "Flare Force One/Session 12-14/Session Flow.canvas",
+    "Flare Force One/PCs/Brimstone.md",
+    "Encyclopedia/Books and Items/Potion of Borrowed Time.md",
+    "Flare Force One/PCs/Dashboard.md",
+    "ZZZ.Aux Files/The Estate.png",
+    "ZZZ.Aux Files/Tucker.pdf",
+    "Untitled.canvas",
+    "Encyclopedia/Science",
+    "Encyclopedia/Books and Items",
+    "Encyclopedia/Mewoodan Specific",
+    "Encyclopedia/Items",
+    "ZZZ.Aux Files/Ardyn.pdf",
+    "Characters/Deceased",
+    "Characters/Adventurers",
+    "ZZZ.Aux Files/Mochi.pdf",
+    "ZZZ.Aux Files/Keiji.pdf",
+    "ZZZ.Aux Files/Pasted image 20240412134739.png",
+    "ZZZ.Aux Files/Pasted image 20240416082058.png"
+  ]
+}
