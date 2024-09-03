@@ -1,3 +1,7 @@
+---
+title: "Wormweaver the Usurper"
+---
+
 > [!tldr]
 > Prev. Torog
 

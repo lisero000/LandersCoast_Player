@@ -1,3 +1,7 @@
+---
+title: "Butterwick"
+---
+
  #Village *, demonym: "Butterwickian"*
 
 Butterwick is a quaint village with a population of 473, nestled in the fertile lands just south of the Lander's Hills and a stone's throw from the lush edges of the Miredeep Sea. The village is famously known for its rich dairy produce, especially its creamy butter, which is sought after by gourmets across the land.

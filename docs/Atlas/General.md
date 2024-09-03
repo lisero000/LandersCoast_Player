@@ -1,3 +1,7 @@
+---
+title: "General"
+---
+
 [World Map Link](https://inkarnate.com/m/vOvk7g-landers-coast/)
 
 ## Renowned Roads and Trails

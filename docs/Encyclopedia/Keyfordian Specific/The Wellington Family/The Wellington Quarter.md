@@ -1,3 +1,7 @@
+---
+title: "The Wellington Quarter"
+---
+
 ### **Appearance and Architecture:**
 - Dominated by traditional and stately architecture with grand manors and well-kept gardens.
 - Cobblestone streets that are clean and well-maintained, illuminated by gas lamps at night. 

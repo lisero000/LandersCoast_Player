@@ -1,3 +1,7 @@
+---
+title: "Lady Siaculas Wellington"
+---
+
 *(f, #aasimar, 67)*
 - **Clothing**: formal velvet ball dress, solid, dark, tailored
 - **Hairstyle**: Medium, curly, styled, silver

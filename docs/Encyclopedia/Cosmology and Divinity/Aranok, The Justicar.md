@@ -1,3 +1,7 @@
+---
+title: "Aranok, The Justicar"
+---
+
 > [!tldr] Prev. Erathis
 
 **He/him**

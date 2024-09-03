@@ -1,3 +1,7 @@
+---
+title: "Frontier Village"
+---
+
 *Small #Town, demonym: " #Fronterran / #Fronterite"*
 
 The town of frontier is a bustling hub of Guild activity. Adventurers prepare to depart as a last stop before entering the Jade Forest proper.

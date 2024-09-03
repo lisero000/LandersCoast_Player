@@ -1,3 +1,7 @@
+---
+title: "Lord Eiling Wellington"
+---
+
 *M, #human, 76*
 - **Clothing**: Formal kimono-suit, silk, floral, bright, pristine
 - **Hairstyle**: Long, straight, tied back, white

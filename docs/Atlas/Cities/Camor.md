@@ -1,3 +1,7 @@
+---
+title: "Camor"
+---
+
 #oligarchy 
 > [!tldr] Key aspects: autonomy, heroes, cluttered, mercantile
 

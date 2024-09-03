@@ -1,3 +1,7 @@
+---
+title: "The Lightbringer"
+---
+
 > [!tldr] Prev. Pelor
 
 **He/him**

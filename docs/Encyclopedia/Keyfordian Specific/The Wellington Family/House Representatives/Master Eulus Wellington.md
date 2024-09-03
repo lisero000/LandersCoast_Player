@@ -1,3 +1,7 @@
+---
+title: "Master Eulus Wellington"
+---
+
 *(m, demihuman #aasimar, 27)*
 - **Clothing**: Steampunk outfit, leather, gears, muted, well-fitted
 - **Hairstyle**: Short, straight, side-parted, dark brown

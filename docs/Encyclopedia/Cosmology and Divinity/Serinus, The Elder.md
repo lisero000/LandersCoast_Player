@@ -1,3 +1,7 @@
+---
+title: "Serinus, The Elder"
+---
+
 > [!tldr] Prev. Ioun
 
 *SE-RI-NUHS*

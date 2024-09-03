@@ -1,3 +1,7 @@
+---
+title: "Celestial Shadows The Arcane Eclipse Effect and Ley Line Dynamics in a Binary Star System"
+---
+
 #book
 
 **Author:** *Professor Lysandro Miraluce, Chair of Celestial Phenomena, Università di Litoria - Department of Astronomy*

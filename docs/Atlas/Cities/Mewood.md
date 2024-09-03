@@ -1,3 +1,7 @@
+---
+title: "Mewood"
+---
+
 #puppet_state
 > [!tldr] Key aspects: reclamation, oppression, beauty
 

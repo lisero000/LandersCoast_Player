@@ -1,3 +1,7 @@
+---
+title: "Litorian Culture"
+---
+
 ## Comparison with Real Life Culture
 Litoria, the bustling port city in Landers' Coast, draws many parallels to the great Venetian Republic during the Renaissance period in terms of its mercantile prowess and strategic significance. The city's culture is heavily influenced by commerce, diplomacy, and a rich maritime tradition. Litorians are renowned for their shrewd business acumen, reminiscent of the historic merchant families of Venice, who were also influential in politics and culture.
 

@@ -1,3 +1,7 @@
+---
+title: "Keyfordian Culture"
+---
+
 In the fabric of Keyfordian culture, the threads of past calamities and present triumphs interweave to create a society rich with unique customs, beliefs, and traditions.
 
 ## Linguistic Nuances

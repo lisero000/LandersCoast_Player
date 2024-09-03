@@ -1,3 +1,7 @@
+---
+title: "Alderbrook Enclave Shops and POIs"
+---
+
 **Main Article:** [[Keyford (nee. Keford)#2. **Alderbrook Enclave**|Alderbrook Enclave]]
 
 # Shops

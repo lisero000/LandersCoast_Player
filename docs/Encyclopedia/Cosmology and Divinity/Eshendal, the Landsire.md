@@ -1,3 +1,7 @@
+---
+title: "Eshendal, the Landsire"
+---
+
 > [!tldr] Prev. Melora
 
 **He/Him**

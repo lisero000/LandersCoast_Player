@@ -1,3 +1,7 @@
+---
+title: "Death (Deity)"
+---
+
 > [!tldr] Prev. Raven Queen
 
 **It/Its**

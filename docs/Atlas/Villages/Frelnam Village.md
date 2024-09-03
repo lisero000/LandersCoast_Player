@@ -1,3 +1,7 @@
+---
+title: "Frelnam Village"
+---
+
 #Hamlet, fief of #Camor, demonym: " #Frelnamite"
 
 Frelnam is a small hamlet that sits between the borders of the Ashgrove and the Hissing Vale. It struggles between three Biomes of dangers from the brigands of the south, fire elementals to the east and marauders and lamias to the north.

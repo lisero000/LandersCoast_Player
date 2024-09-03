@@ -1,3 +1,7 @@
+---
+title: "Ashgrove Range"
+---
+
 #mountain_range #natural #dangerous #T1-4
 When the Device was activated, not only did it level the city of Keford but it caused effects that could be felt across Landers' Coast and beyond.
 

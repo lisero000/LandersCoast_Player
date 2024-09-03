@@ -1,3 +1,7 @@
+---
+title: "Asterius, The Consort"
+---
+
 > [!tldr] Prev. Asmodeus, The Lord of the Nine Hells
 
 **They/them**

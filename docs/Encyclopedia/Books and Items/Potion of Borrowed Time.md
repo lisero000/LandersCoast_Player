@@ -1,3 +1,7 @@
+---
+title: "Potion of Borrowed Time"
+---
+
 #potion/elixir
 This scroll contains the formula for a potent elixir that grants temporary invulnerability to physical harm. Once learned, you can produce this potion with the below ingredients. When consumed, you gain resistance to all damage types for 1 hour, but at the end of the duration, you suffer 5d10 necrotic damage as the elixir drains your life force. 
 

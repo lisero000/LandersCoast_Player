@@ -1,3 +1,7 @@
+---
+title: "Argentwind Trade House"
+---
+
 An example Auction House manifest
 
 |Item Number|Item Name|Starting Bid|Time|

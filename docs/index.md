@@ -1,3 +1,7 @@
+---
+title: "index"
+---
+
 # Welcome to My Obsidian Vault
 
 Explore the different sections of my knowledge base:

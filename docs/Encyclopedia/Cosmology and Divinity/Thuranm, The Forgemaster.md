@@ -1,3 +1,7 @@
+---
+title: "Thuranm, The Forgemaster"
+---
+
 > [!tldr] Prev. Moradin, the Allhammer
 
 *THOO-ran-um*

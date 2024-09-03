@@ -1,3 +1,7 @@
+---
+title: "Igniflora"
+---
+
 #Flora
 
 *Pyroflorus Vulgaris*

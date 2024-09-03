@@ -1,3 +1,7 @@
+---
+title: "Litoria (nee. Litore)"
+---
+
 #oligarchy 
 > [!tldr] Key aspects: port city, mercantile, militaristic, ambitious
 

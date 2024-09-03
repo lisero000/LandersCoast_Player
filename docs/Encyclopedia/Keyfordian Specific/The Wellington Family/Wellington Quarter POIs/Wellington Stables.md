@@ -1,3 +1,7 @@
+---
+title: "Wellington Stables"
+---
+
 _Equestrian Center, Master Horace Wellington_ 
 Offering the finest in equine accommodations and care, Wellington Stables is known for its champion bloodline horses and superior training facilities. The stables resemble a grand manor, with ample space and luxurious care for the animals. Patrons can purchase horses or pay for riding lessons and equestrian events, with prices starting at 200 gp for a basic steed.
 

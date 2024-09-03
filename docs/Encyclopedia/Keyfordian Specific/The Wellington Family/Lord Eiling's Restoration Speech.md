@@ -1,3 +1,7 @@
+---
+title: "Lord Eiling's Restoration Speech"
+---
+
 Ladies and gentlemen, esteemed members of The Accord, and all citizens of Keyford,
 
 We observe today not just a decision regarding the Kefordian Crater, but a moment of reflection and resolve for our shared history and future. The issue before us—whether to restore the crater to its natural state or preserve it as a memorial—reflects the core of our values as a community.

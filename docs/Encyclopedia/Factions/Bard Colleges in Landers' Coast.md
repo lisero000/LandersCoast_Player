@@ -1,3 +1,7 @@
+---
+title: "Bard Colleges in Landers' Coast"
+---
+
 In addition to the other standard bard colleges, the following are also available:
 
 - College of Mixology

@@ -1,3 +1,7 @@
+---
+title: "Feybane"
+---
+
 #disease 
 The disease Feybane that ravaged [[Mewood]], devastating the elven population until Aradwyn Solthiel, a skilled magitech artificer from the Concordia Collective, intervened. Feybane was an airborne pathogen with high infectiveness and moderate lethality, affecting not only elves but also other races in the community.
 

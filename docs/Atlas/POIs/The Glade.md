@@ -1,3 +1,7 @@
+---
+title: "The Glade"
+---
+
 #natural #T1-2 #forest
 The Glade is a mystical sanctuary that has captured the imagination. Nestled within its verdant embrace, this serene haven boasts an array of enchanting wonders.  Some believe that the Glade is home to a fey crossing because the air dances with the soft glow of luminescent fireflies, while ethereal songbirds fill the atmosphere with their melodious tunes. Delicate winged foxes flit between the trees, their presence adding an air of whimsy and magic.
 

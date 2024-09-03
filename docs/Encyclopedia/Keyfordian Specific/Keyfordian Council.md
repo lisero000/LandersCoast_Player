@@ -1,3 +1,7 @@
+---
+title: "Keyfordian Council"
+---
+
 # **1. The Expansion of Magical Boundaries**
 > [!tldr] more magic, Stormweaver vs Argentwind/Wellington, tech vs tradition
 

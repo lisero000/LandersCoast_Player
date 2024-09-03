@@ -1,3 +1,7 @@
+---
+title: "Player Stuff"
+---
+
 *A peninsula within the world of Temos, is a land that has been changed and scarred by time — A dynamic and dangerous place, filled with adventure and opportunity for those brave enough to face its challenges.* 
 
 ## House Rules

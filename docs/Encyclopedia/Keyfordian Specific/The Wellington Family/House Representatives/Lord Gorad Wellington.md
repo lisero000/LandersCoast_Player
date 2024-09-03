@@ -1,3 +1,7 @@
+---
+title: "Lord Gorad Wellington"
+---
+
 #### House Administrator
 Lord Gorad (M, #half-elf, 38)
 His face is sharply defined with a hawk-like nose and penetrating dark eyes that seem to miss nothing in their surroundings.

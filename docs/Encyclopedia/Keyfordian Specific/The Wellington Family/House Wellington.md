@@ -1,3 +1,7 @@
+---
+title: "House Wellington"
+---
+
 > [!tldr] Old money, tradition, order
 ### Coat of Arms
 1. **Shape of Shield**: A classic heraldic shield shape, broad at the top and tapering to a point at the bottom.

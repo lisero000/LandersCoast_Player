@@ -1,3 +1,7 @@
+---
+title: "Gladehaven"
+---
+
 #Hamlet *, demonym:* #Gladehaven_Folk
 
 Gladehaven is a picturesque hamlet situated comfortably between the verdant expanses of [[The Glade]] and the sprawling Farnhallow Fields. It boasts a population of 312, largely self-sufficient thanks to the rich soil and the proximity to the well-travelled roads leading to the larger towns.

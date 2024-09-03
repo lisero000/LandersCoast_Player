@@ -1,3 +1,7 @@
+---
+title: "Master Felix Wellington"
+---
+
 *(M, #human, 19)*
 
 ### Master Felix Wellington Profile

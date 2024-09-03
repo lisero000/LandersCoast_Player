@@ -1,3 +1,7 @@
+---
+title: "Arcanist's Gambit"
+---
+
 #gambling #minigame
 **Overview:** _Arcanist's Gambit_ is a thrilling casino dice game unique to Keyford that combines elements of chance with a touch of strategic spell casting. Players wager on the outcomes of dice rolls and use "spell cards" to influence those outcomes or disrupt the rolls of their opponents.
 

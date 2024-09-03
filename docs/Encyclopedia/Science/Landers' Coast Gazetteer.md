@@ -1,3 +1,7 @@
+---
+title: "Landers' Coast Gazetteer"
+---
+
 https://app.fantasy-calendar.com/calendars/2e499fbad93bb4877d9d9cecc047907d
 
 The world of Temos is a planet with regular seasons and a wide variety of climes, ranging from frigid ice caps to arid deserts, temperate forests, windswept plains, sweltering jungles, and storm-tossed oceans. It orbits a pair of white dwarf suns, and is orbited by a single moon. Distant stars twinkle in the evening skies and a recently revised calendar was created by the Quorum of the Voice following the fall of Keford and a number of celestial discoveries are only thanks to the Università di Litoria. The founding of Landers’ Coast is no longer denoted as the time period but is still celebrated on the final day of Winter at the end of the sixth month.

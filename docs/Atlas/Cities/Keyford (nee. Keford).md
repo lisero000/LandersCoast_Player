@@ -1,3 +1,7 @@
+---
+title: "Keyford (nee. Keford)"
+---
+
 #council-oligarchy
 > [!tldr] Key aspects: the device, the accord, low military, sprawling
 

@@ -1,3 +1,7 @@
+---
+title: "Wellington Manor"
+---
+
 The Wellington Manor stands as a testament to old money and tradition within Keyford, characterized by its sprawling, meticulously landscaped grounds and the stately home itself, which is built in a neoclassical architectural style with imposing columns and expansive windows. The manor is not just a residence but a symbol of the power and history of [[House Wellington]], often hosting balls and political gatherings.
 
 #### The Aether Suite

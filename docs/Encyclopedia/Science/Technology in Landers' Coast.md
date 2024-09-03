@@ -1,3 +1,7 @@
+---
+title: "Technology in Landers' Coast"
+---
+
 Magic and technology over the years in Landers' Coast have led to countless inventions and innovations on the use of magic. Most built up areas have magic fill in most conveniences from magical lights, porters offering short range transport services to heating and cooling solutions. With this new frontier of magic, the Coast struggles to keep up. Portal abductions are a far too common crime and reputation as a portal user is everything. The recent and expensive Scrying stones are garnering demand on shady Street coners and illusionists combine wit and charm with sleight of hand to catch unsuspecting victims.
 
 While most unscrupulous individuals are quickly rooted out, criminal organisations such as the Duskclaws clash with groups intent on providing more benevolent arcane services. The largest legitimate organisation being the Mirchenzo family based in Litoria, with ties to communications, transport and minor magical artefacts.

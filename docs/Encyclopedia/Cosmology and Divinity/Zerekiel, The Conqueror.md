@@ -1,3 +1,7 @@
+---
+title: "Zerekiel, The Conqueror"
+---
+
 > [!tldr] Prev. Kord
 
 **He/him**

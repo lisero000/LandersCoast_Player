@@ -1,3 +1,7 @@
+---
+title: "Mudhaven"
+---
+
 #monarchy
 > [!tldr] Key aspects: goblins, unique agriculture, refuge vs Environment
 

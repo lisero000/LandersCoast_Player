@@ -1,3 +1,7 @@
+---
+title: "Talespinner Society"
+---
+
 ### Benefits of Membership (1 GP per month)
 
 - **Exclusive Discounts** at partnered artisan shops and inns across Landers' Coast.
